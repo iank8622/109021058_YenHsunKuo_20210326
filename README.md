@@ -24,6 +24,12 @@
 <br>
 <br>
 
+## <font color = "FF8000"><b>新增資源</font>
+<img src="imgs/picture1.png" width = "40%" style = "border: 5px solid #484891 ">
+<br>
+<br>
+<br>
+
 ## <font color = "FF8000"><b>HTML語法</font>
 - 置中: style = "text-align: center;"
 - 選色: style = "background-color: rgb(253, 255, 218)"
