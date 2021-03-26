@@ -50,6 +50,30 @@ table{
 <br>    text-align: center;
 <br>    margin: 2em auto 1em auto ;(上右下左)    
 }
+<br>
+<br>
+<br>
 
+## <font color = "FF8000"><b>下載reguests & BeautifulSoup4</font>
+<img src="imgs/截圖 2021-03-26 下午2.06.03.png" style = "border: 5px solid #484891 ">
+<br>
+<img src="imgs/截圖 2021-03-26 下午2.07.29.png" style = "border: 5px solid #484891 ">
+<br>
+<br>
+<br>
 
+## <font color = "FF8000"><b>爬蟲</font>
+<img src="imgs/截圖 2021-03-26 下午2.22.22.png" style = "border: 5px solid #484891 ">
 
+- 頁面存在顯示200 錯誤顯示404
+
+- 詳細請見demo.py檔
+<br>
+<br>
+<br>
+
+## <font color = "FF8000"><b>demo.py爬蟲相關程式碼</font>
+- demo3.py
+<img src="imgs/messageImage_1616775532787.jpg"  width="150%" style = "border: 5px solid #484891">
+- demo4.py
+<img src="imgs/messageImage_1616775517840.jpg" width="150%" style = "border: 5px solid #484891">
